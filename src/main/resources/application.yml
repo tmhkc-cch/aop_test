@@ -1,0 +1,15 @@
+server:
+  port: 8080
+
+#spring:
+#  activemq:
+#    user: admin
+#    password: admin
+#    broker-url: tcp://10.10.154.7:61616
+#    pool:
+#      enabled: true
+#      max-connections: 10
+#
+#
+#queueName: publish.queue
+#topicName: upload.vehicle.message
